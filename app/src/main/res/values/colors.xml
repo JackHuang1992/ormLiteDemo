@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#169FD7</color>
+    <color name="colorPrimaryDark">#1490C3</color>
+    <color name="colorSecondaryText">#525151</color>
+    <color name="primary_bg">#F5F5F9</color>
+    <color name="primary_divider">#DDDDDD</color>
+    <color name="charge_divider">#E5E5E5</color>
+    <color name="wallet_divider">#EFEFEF</color>
+    <color name="right_arrow">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+    <color name="background">#f0f0f0</color>
+    <color name="hot_hos">#fbfbfb</color>
+    <color name="title_color">#46A3ff</color>
+    <color name="bg_item_report">#F7F7F7</color>
+    <color name="list">#515151</color>
+    <color name="list_item">#5B5B5B</color>
+    <color name="background2">#ABABAB</color>
+    <color name="startColor">#fce8b2</color>
+    <color name="centerColor">#fd9c83</color>
+    <color name="orange">#f29e84</color>
+    <color name="background3">#363636</color>
+    <color name="white2">#FAFAFA</color>
+    <color name="pay_normal">#46A3ff</color>
+    <color name="pay_on">#00A5FF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="t_transparent">#E8E8E8</color>
+    <color name="blue">#ff3190e8</color>
+    <color name="percent_5_transparent">#05000000</color>
+    <color name="percent_10_transparent">#19000000</color>
+    <color name="percent_20_transparent">#33000000</color>
+    <color name="percent_50_transparent">#7F000000</color>
+    <color name="percent_50_gray_transparent">#7FEEEEEC</color>
+    <color name="percent_80_white_transparent">#CCFFFFFF</color>
+    <color name="percent_50_white_transparent">#7FFFFFFF</color>
+
+
+    <color name="app_activity_background">#ffeeeeee</color>
+    <!--<color name="app_titleBar_color">#ff46afde</color>-->
+    <color name="app_titleBar_color">#169FD7</color>
+    <color name="app_titleBar_text_color">#ffefefee</color>
+    <!--<color name="app_titleBar_text_color">#169FD7</color>-->
+    <color name="common_text_grey_color">#ffaaaaaa</color>
+    <color name="common_shadow">#77000000</color>
+    <color name="light_shadow">#22000000</color>
+
+    <!-- 买药相关 -->
+    <color name="medicine_shopping_car_source_background">#fffafafa</color>
+    <color name="medicine_price">#ffbf1f1f</color>
+
+    <!-- 消息列表 -->
+    <color name="message_listview_item_background">#fffbfbfb</color>
+    <color name="message_listview_item_background_pressed">#ffdbdbdb</color>
+    <color name="message_listview_item_unread">#ffff5500</color>
+    <color name="message_listview_item_separation_line">#ffd9d9d9</color>
+
+    <!-- 咨询列表 -->
+    <color name="query_gridview_item_background">#fffbfbfb</color>
+    <color name="query_gridview_item_background_pressed">#ffe2e1df</color>
+    <color name="query_gridview_item_separation_line">#ffe1e1df</color>
+
+    <!-- 咨询 医生列表 -->
+    <color name="query_doctor_list_item_status_busy">#fff49e83</color>
+    <color name="query_doctor_list_item_name">#ff393939</color>
+    <color name="query_doctor_list_item_description">#ff9f9f9f</color>
+    <color name="query_doctor_list_item_wait_number">#fff39d86</color>
+
+    <!-- 字体颜色 -->
+    <color name="text_title_color">#ff06202d</color>
+    <color name="text_content_color">#ffaeacaa</color>
+
+    <!-- 搜索控件 -->
+    <color name="plug_search_separation_line">#ffd9d9d9</color>
+
+    <!-- 操作面板 -->
+    <color name="common_oper_camera">#ffff3829</color>
+    <color name="common_oper_normal">#ff43aedc</color>
+
+    <!-- 聊天面板 -->
+    <color name="gray_normal">#666667</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="top_bar_normal_bg">#00acff</color>
+
+    <color name="tabbar_background">#F7F7F7</color>
+    <color name="tab_item_text">#FFAAAAAA</color>
+    <color name="tab_item_text_on">#4C85C1</color>
+    <color name="tabbar_top_border">#FFC9C9C9</color>
+    <color name="customer_list_view_divider">#a2a2a2</color>
+    <color name="tab_icon_normal">#A9B7B7</color>
+    <color name="tab_icon_on">#4C85C1</color>
+
+</resources>
